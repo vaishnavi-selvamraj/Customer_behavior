@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior — Project README
+# 🛍️ Customer Shopping Behavior 
  
 A full-stack analytics project using **PostgreSQL**, **Excel**, **Jupyter Notebook**, and **Power BI** to explore customer shopping patterns across 3,900 records and 18 features.
 
@@ -25,7 +25,7 @@ Step-by-step workflow: cleaning the 37 null Review Rating values, 5 recommended 
 
 ![image_alt](https://github.com/vaishnavi-selvamraj/Customer_behavior/blob/main/Screenshot%20(68).png?raw=true)
 
-## ✅ Quick-Start Checklist
+## ✅ Overview
  
 - [ ] Export `.xlsx` to `.csv` for PostgreSQL import
 - [ ] Run `CREATE TABLE` and `COPY` commands in PostgreSQL
