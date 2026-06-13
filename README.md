@@ -23,7 +23,7 @@ Step-by-step workflow: cleaning the 37 null Review Rating values, 5 recommended 
 
 # Sample Dashboard
 
-![image_alt](
+![image_alt](https://github.com/vaishnavi-selvamraj/Customer_behavior/blob/main/Screenshot%20(68).png?raw=true)
 
 ## ✅ Quick-Start Checklist
  
